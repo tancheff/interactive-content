@@ -44,6 +44,8 @@ public class Singleton {
 }
 ```
 
+
+
 Let's see what is going on in our `Main` class
 
 ``` java
