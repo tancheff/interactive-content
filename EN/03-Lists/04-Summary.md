@@ -22,7 +22,7 @@ List<String> names = new ArrayList<>();
     names.add("George");
 ```
 
-- Reading Lists using `for` loop
+- Reading Lists using a `for-loop`
 
 ```java
 //Read the number of elements
@@ -48,7 +48,7 @@ List<Integer> items = Arrays
         .collect(Collectors.toList()); 
 ```
 
-- Sorting lists in ascending order with `Collections.sort()` or `Collections.reverse()` for sorting in descending order
+- Sorting lists in ascending or descending order with:  `Collections.sort()` and  `Collections.reverse()` 
 
 ```java
 List<String> names = new ArrayList<>(Arrays.asList("Peter", "Michael", "George", "Victor", "John", "Alexander"));
