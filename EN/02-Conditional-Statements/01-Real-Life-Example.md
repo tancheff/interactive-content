@@ -7,21 +7,21 @@
 
 [image assetsSrc="02-coditional-statements-1.png" /]
 
-Every day we are faced with decisions, which we make based on conditions that may or may not depend on us.
+Every day we feace decisions, which we make based on conditions that may or may not depend on us.
 
-Let us imagine the following daily situation:
+Let us exan\mine the following situation:
 
-You have some plants in the garden that need watering. 
+We have some plants in the garden that need watering. 
 
-Depending on the weather outside, you could decide to water them or not.
+Depending on the weather outside, we could decide to water them or not.
 
 **If** it is raining:
 
-  * You can skip watering the plants in the garden
+  * We can skip watering the plants in the garden
 
 **Else**:
 
-  * You need to water them
+  * We need to water them
 
 This particular situation only has two options to choose from, but in real life, as well as in programming, you could have multiple.
 
