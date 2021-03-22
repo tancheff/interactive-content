@@ -16,7 +16,7 @@ In programming, we can compare values using the following operators:
 | Less than |   **<** |
 | Less than or equal to |   **<=** |
 
-When compared, the result is a Boolean value `true` or `false`, depending on whether the result of the comparison is `true` or `false`.
+They return a Boolean value (`true` or `false`), depending on whether the result of the comparison is `true` or `false`.
 [/slide]
 
 [slide hideTitle]
@@ -36,9 +36,9 @@ System.out.println(b == 2 * a); // true
 System.out.println(a != b);     // true
 ```
 
-You can also compare numeric expressions. 
+We can also compare numeric expressions. 
 
-The expressions you compare can themselves be complex expressions, as in the following example.
+The expressions we compare can themselves contain complex expressions, as in the following example.
 
 ```java
 x / 45 * (y +17) >= Math.sqrt(z) / (p - (x * 16))
@@ -58,7 +58,7 @@ If the value of the expression on the left side is greater than or equal to the 
 
 Comparing text using the `equals()` method.
 
-Two string operands are equal when both of them are `null` or both string instances are of the same length and have identical characters in each character position:
+Two string operands are equal when both of them are `null` or both string instances are of the same length and have identical characters on each character position:
 ```java live
 String a = "Examplе";
 String b = a;
