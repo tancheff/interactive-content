@@ -5,7 +5,7 @@
 
 ## In this lesson we learned: 
 
-- What are Variables and how we use them
+- What are Variables and how to use them
 
 ```java
 String name = "Bob";
@@ -13,7 +13,7 @@ boolean employed = true;
 int age = 35;
 ```
 
-- Data Types definition
+- Data Types. Definition
 
 ``` java
 int a = 5;
@@ -24,7 +24,7 @@ float f = 4.2;
 
 - Statements (commands)
 
-- How to read User **Input** and Formatting **Output**
+- How to read User **Input**. Formatting **Output**
 
 ```java live
 System.out.println("Hello World");
@@ -50,12 +50,12 @@ int r = (150-20) / 2 + 5;
 
 ## In the next lesson we will learn:
 
-- How to use Comparison Operators
+- How to use the Comparison Operators
 
 - What are the **if** and **if-else** Conditional Statements
 
 - Blocks and Variable Scope
 
-- What is Code Debugging and how we use it
+- What is Code Debugging and to we use it
 
 [/slide]
