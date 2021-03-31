@@ -1,6 +1,6 @@
 # Coming Soon
 
 [slide hideTitle]
-# Coming Soon
+# Coming Soon 
 
 [/slide]
