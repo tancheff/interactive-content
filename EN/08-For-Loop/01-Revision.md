@@ -12,7 +12,7 @@
 
 [slide]
 # Revision 
-Before proceeding ahead, let's remind ourselves about the program concepts and techniques that we have learned in the last session.
+Before proceeding ahead, let's remind ourselves about the program concepts and techniques that we have learned in the last session. askdjhglauskhdgliuahshgiuasd
 
 # Nested Conditions
 ```java
